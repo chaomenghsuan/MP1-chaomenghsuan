@@ -89,7 +89,7 @@ Test your decoder by passing it sensible English strings in T9; it may get some 
 
 ## Hints
 
-* Use `string_map` or `string_file` for constructing the mapper; don't forget to compute the `closure` so that your mapper can handle strings of arbitrary length.
+* Use `string_map` or `string_file` for constructing the mapper; don't forget to compute the `closure` so that your mapper can handle strings of arbitrary length; you will have to escape the square brackets, however.
 * You can use the data from [MP0](https://gist.github.com/kylebgorman/3e28fc834962017c9ac01f7434485519) for your language model; however, you shouldn't tokenize the data for this task.
 * When building the language model, take special care when handling the space character.
 
