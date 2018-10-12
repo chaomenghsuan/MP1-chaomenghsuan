@@ -16,4 +16,7 @@ I tested the two rules with the dataset. For the adessive, `54` correct results 
 
 ## Analysis
 
-I observed the data and discovered some exceptions. For example, `"diskofiili"` has a backvowel "o" and there is no intervening front vowel after the "o". According to the rule, its adessive should be "diskofiililla". In fact, however, it is "diskofiilillä". In other cases, the suffix triggered some change in the stem. For example, `"kutu"` becomes "kudulla" instead of "kutulla", where "t" becomes "d", or `"seinus"` becomes "seinuksessa", where a "e" is inserted between the original stem and the suffix, instead of "seinusssa".
+I observed the data and discovered some exceptions. For example, `"diskofiili"` has a backvowel "o" and there is no intervening front vowel after the "o". According to the rule, its adessive should be "diskofiililla". In fact, however, it is "diskofiilillä". In other cases, the suffix triggered some change in the stem. For example, `"kutu"` becomes "kudulla" instead of "kutulla", where "t" becomes "d", or `"seinus"`
+becomes "seinuksessa", where a "e" is inserted between the original stem and the suffix, instead of "seinusssa".
+
+I worked together with Marcos, Anthony and Lara for some part of the homework.

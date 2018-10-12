@@ -19,3 +19,5 @@ I trained a language model (order=6) based on 5,000 sentences from the `news.200
 `No more than order 5 problem`: I tried language models based on 1,000, 5,000, 10,000, 100,000 and 200,000 sentences. Apart from the first two, when I tried `order=6` or more, I got an error like `FATAL: NegLogDiff: undefined 0 -4.55916e+20`.
 
 `Prediction problem`: Both LMs with lower order or higher order creates some wrong prediction. However, they tend to make wrong prediction on different words. Intuitively, I feel that a LM with higher order better predicts long words.
+
+I worked together with Marcos, Anthony and Lara for some part of the homework.
